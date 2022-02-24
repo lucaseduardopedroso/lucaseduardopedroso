@@ -7,4 +7,5 @@
 - 😄 Pronouns: He/Him.
 
 
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseduardopedroso&show_icons=true&theme=highcontrast&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardopedroso&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/lucaseduardopedroso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardopedroso&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/lucaseduardopedroso/github-readme-stats)
+
