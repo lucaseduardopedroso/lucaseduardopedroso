@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm Lucas Pedroso (Luke) 👋👨🏽‍💻</h1>
 <h2 align="center"> I'm a <i>System Analysis and Development</i> Student that loves Web Development.</h2>
 
-- 🌱 I’m currently learning: Java and React JS.
-- 💬 Ask me about: Node.js, Express, Javascript and C Language.
+- 🌱 I’m currently learning: React JS and E2E tests.
+- 💬 Ask me about: Java, Node.js, Express, Javascript and C Language.
 - 📫 How to reach me: lucaseduardosilvapedroso@gmail.com
 - 😄 Pronouns: He/Him.
 
